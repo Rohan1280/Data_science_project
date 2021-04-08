@@ -1,4 +1,5 @@
 1. Credit card applications
+ 
 •	Commercial banks receive a lot of applications for credit cards. Many of them get rejected for many reasons, like high loan balances, low income levels, or too many inquiries on an individual's credit report, for example. Manually analysing these applications is mundane, error-prone, and time-consuming (and time is money!). Luckily, this task can be automated with the power of machine learning and pretty much every commercial bank does so nowadays. In this notebook, we will build an automatic credit card approval predictor using machine learning techniques, just like the real banks do.
 
 •	We'll use the Credit Card Approval dataset from the UCI Machine Learning Repository. The structure of this notebook is as follows:
@@ -14,6 +15,7 @@ Finally, we will build a machine learning model that can predict if an individua
 
 
 2. Movie Recommendation
+3. 
 •	GroupLens Research has collected and made available rating data sets from the MovieLens web site (http://movielens.org). The data sets were collected over various periods of time, depending on the size of the set.
 
 Types of recommendation system
@@ -31,6 +33,7 @@ In this notebook we are going to implement content based recommendation system.
 
 
 3. Prediction Heart Disease using Machine Learning
+4. 
 Thus preventing Heart diseases has become more than necessary. Good data-driven systems for predicting heart diseases can improve the entire research and prevention process, making sure that more people can live healthy lives. This is where Machine Learning comes into play. Machine Learning helps in predicting the Heart diseases, and the predictions made are quite accurate.
 The project involved analysis of the heart disease patient dataset with proper data processing. Then, different models were trained and predictions are made with different algorithms KNN, Random Forest, Logistic Regression etc. 
 
@@ -49,6 +52,7 @@ I've used a variety of Machine Learning algorithms, implemented in Python, to pr
 
 
 4. Explore-Weather-Trends
+5. 
 Udacity Data Analyst Degree - Project I
 •	Overview
 In this project, I will analyze local and global temperature data and compare the temperature trends where I live to overall global temperature trends.
@@ -70,11 +74,12 @@ Moreover, due to fluctuations in yearly averages, the data was evaluated conside
 
 
 5. Investigate_dataset
+6. 
 •	It contains movie datasets listed by Imdb. In this, We start doing project using IMDB movie datasets.
 •	It contains 10000 records and number of columns is 21.The given dataset could be analysed and it could help to reach some important information about those given data. Following are the points which could be analysed using the visualization of the datasets.
-	1)we can find the most profitable movie
-	2)we can find the average runtime of those movies over years
-	3)we can find the genre which is mostly watched
-	4)we can also find the highest and lowest budget movies
-	5) we can find the max an min revenue
-
+	we can find the most profitable movie
+	we can find the average runtime of those movies over years
+	we can find the genre which is mostly watched
+	we can also find the highest and lowest budget movies
+	 we can find the max an min revenue
+####Unordered list (*)
